@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "108672217846",
+    "firebase_url": "https://katering-aplikacja.firebaseio.com",
+    "project_id": "katering-aplikacja",
+    "storage_bucket": "katering-aplikacja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108672217846:android:474e1ce0a17c6215fff2d7",
+        "android_client_info": {
+          "package_name": "pl.wsiz.aplikacja_kateringowa_wsiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108672217846-6ecv7399n1u5j0potpf751sdo7gkmvs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC57ClvPhI12KlsjkMPe1YUDuzfhNFkA6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108672217846-6ecv7399n1u5j0potpf751sdo7gkmvs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108672217846:android:507fa871105b5709fff2d7",
+        "android_client_info": {
+          "package_name": "pl.wsiz.katering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108672217846-6ecv7399n1u5j0potpf751sdo7gkmvs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC57ClvPhI12KlsjkMPe1YUDuzfhNFkA6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108672217846-6ecv7399n1u5j0potpf751sdo7gkmvs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
